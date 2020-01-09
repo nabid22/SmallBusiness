@@ -1,0 +1,44 @@
+.alignment
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+}
+.card.img
+{
+   width: 300px;
+   height: 400px;
+}
+.align
+{
+    margin-top: 70px;
+}
+.category{color:rgb(10, 110, 241);}
+
+.book-name{font-weight: bold;}
+.bolder{font-weight: bold;}
+.card-inside
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+    
+}
+.price
+{
+    font-weight: bold;
+    color: darkgreen;
+}
+.book-info
+{
+    margin-left: 30px;
+}
+.body
+{
+    background-color: rgb(233, 229, 253);
+}
+
